@@ -1,0 +1,9 @@
+/mnt/data/cpp/tcp_protobuf_test/build/CMakeFiles/rebuild_cache.dir
+/mnt/data/cpp/tcp_protobuf_test/build/CMakeFiles/edit_cache.dir
+/mnt/data/cpp/tcp_protobuf_test/build/proto/CMakeFiles/rebuild_cache.dir
+/mnt/data/cpp/tcp_protobuf_test/build/proto/CMakeFiles/edit_cache.dir
+/mnt/data/cpp/tcp_protobuf_test/build/proto/CMakeFiles/message.dir
+/mnt/data/cpp/tcp_protobuf_test/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/data/cpp/tcp_protobuf_test/build/src/CMakeFiles/edit_cache.dir
+/mnt/data/cpp/tcp_protobuf_test/build/src/CMakeFiles/server.dir
+/mnt/data/cpp/tcp_protobuf_test/build/src/CMakeFiles/client.dir

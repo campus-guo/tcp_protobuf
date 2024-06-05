@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/client.dir/client.cpp.o  -o client   -L/mnt/data/cpp/tcp_protobuf_test/build/proto  -Wl,-rpath,/mnt/data/cpp/tcp_protobuf_test/build/proto ../proto/libmessage.a /usr/lib/x86_64-linux-gnu/libprotobuf.so -lpthread 
